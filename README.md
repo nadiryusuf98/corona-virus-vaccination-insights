@@ -21,7 +21,10 @@
 
 ## Project overview
 Stay informed about the global progress in COVID-19 vaccinations with our comprehensive tracker. We focus exclusively on countries actively engaged in vaccination campaigns, providing real-time updates on vaccination rates and distribution. the effects of GDP on Vaccination rate is also highlighted in this project.
-<img width="1440" alt="dashboard covid" src="https://github.com/nadiryusuf98/corona-virus-vaccination-insights/assets/152337574/8c153272-816b-4012-8da9-228f50444cbd">
+
+<img width="1440" alt="dashboard covid 1" src="https://github.com/nadiryusuf98/corona-virus-vaccination-insights/assets/152337574/e9fe2beb-b8c5-4fa0-bc2e-41b788713921">
+
+
 
 <img width="1440" alt="dasboard covid 2" src="https://github.com/nadiryusuf98/corona-virus-vaccination-insights/assets/152337574/b267c9d9-7c3c-4344-af78-6010e749d6e3">
 
@@ -106,6 +109,8 @@ By acknowledging these limitations and taking steps to mitigate their impact, su
 
 
 ## References
+[
+](https://ourworldindata.org/covid-vaccinations)https://ourworldindata.org/covid-vaccinations
 
 
 
