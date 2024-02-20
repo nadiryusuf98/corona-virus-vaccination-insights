@@ -76,11 +76,11 @@ Interesting features I Used:
 
 ## Recommendations
 
-Visualize Global Vaccination Progress: Utilize interactive charts and graphs available on Our World in Data to visualize the progress of COVID-19 vaccination campaigns across different countries and regions. Highlight key metrics such as total doses administered, vaccination rates per capita, and the percentage of the population fully vaccinated.
+Visualise Global Vaccination Progress: Utilise interactive charts and graphs available  to visualise the progress of COVID-19 vaccination campaigns across different countries and regions. Highlight key metrics such as total doses administered, vaccination rates per capita, and the percentage of the population fully vaccinated.
 
-Analyze Vaccine Distribution Equity: Investigate disparities in vaccine distribution and access using demographic data provided by Our World in Data. Analyze vaccination coverage among different population groups, including age, gender, ethnicity, and socioeconomic status, to identify areas requiring targeted interventions to promote equity.
+Analyse Vaccine Distribution Equity: Investigate disparities in vaccine distribution and access using demographic data provided by Our World in Data. Analyse vaccination coverage among different population groups, including age, gender, ethnicity, and socioeconomic status, to identify areas requiring targeted interventions to promote equity.
 
-Monitor Vaccine Effectiveness Over Time: Track the effectiveness of COVID-19 vaccines in reducing transmission rates, hospitalizations, and mortality using real-world data available on Our World in Data. Conduct longitudinal analysis to assess the long-term efficacy of different vaccine types and identify any emerging trends or challenges.
+Monitor Vaccine Effectiveness Over Time: Track the effectiveness of COVID-19 vaccines in reducing transmission rates, hospitalisations, and mortality using real-world data available on Our World in Data. Conduct longitudinal analysis to assess the long-term efficacy of different vaccine types and identify any emerging trends or challenges.
 
 Identify Regional Hotspots and Trends: Use geospatial analysis tools provided by Our World in Data to identify regional hotspots with low vaccination coverage or high transmission rates. Monitor trends in vaccine distribution and COVID-19 incidence over time to inform targeted intervention strategies and resource allocation.
 
@@ -105,7 +105,6 @@ Limited Granularity: The granularity of data available on Our World in Data may 
 
 Contextual Factors and Interpretation: Data on COVID-19 vaccination rates and distribution must be interpreted within the context of broader social, economic, and political factors influencing public health outcomes. Our World in Data may not always provide comprehensive contextual information or metadata to facilitate nuanced analysis and interpretation of the data.
 
-By acknowledging these limitations and taking steps to mitigate their impact, such as cross-referencing data with multiple sources and conducting sensitivity analyses, you can enhance the robustness and reliability of your COVID-19 vaccine tracker project using Our World in Data.
 
 
 ## References
